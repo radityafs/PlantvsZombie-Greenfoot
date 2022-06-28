@@ -2,10 +2,14 @@
 comment0.target=Sun
 comment1.params=
 comment1.target=Sun()
+comment1.text=\r\n\ Constructor\ Class\ Sun\r\n\ berfungsi\ mengubah\ gambar\ object\ menjadi\ gambar\ dari\ value\ gif.\r\n
 comment2.params=
-comment2.target=void\ act()
+comment2.target=void\ sunDrop()
+comment2.text=\r\n\ Method\ sunDrop\ digunakan\ untuk\ menjatuhkan\ sun\ kebawah\r\n
 comment3.params=
-comment3.target=void\ sunDrop()
+comment3.target=void\ letTheSunFall()
+comment3.text=\r\n\ Method\ letTheSunFall\ digunakan\ untuk\ mengarahkan\ matahari\ kebawah\r\n\ dan\ mengatur\ nilai\ properti\ sunFall\ menjadi\ true\r\n
 comment4.params=
-comment4.target=void\ letTheSunFall()
+comment4.target=void\ act()
+comment4.text=\r\n\ \ \ Method\ act\ akan\ diselalu\ dijalankan\ sesudah\ class\ diinisiasi\r\n\ \ \ disini\ saya\ memanfaatkan\ method\ act\ untuk\ \:\r\n\ \ \ 1.\ mengecek\ nilai\ properti\ sunFall\ apakah\ true\r\n\ \ \ \ \ \ jika\ iya\ maka\ akan\ memanggil\ method\ sunDrop\ (menjatuhkan\ sun)\r\n\ \ \ 2.\ mengecek\ apakah\ object\ diklik,\ jika\ iya\ maka\ akan\ menambah\ sunCounter\ dan\ dihapus\ dari\ arena\r\n
 numComments=5

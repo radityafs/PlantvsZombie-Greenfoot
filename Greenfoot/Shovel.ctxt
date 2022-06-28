@@ -2,8 +2,11 @@
 comment0.target=Shovel
 comment1.params=posX\ posY
 comment1.target=Shovel(int,\ int)
+comment1.text=\r\n\ Pada\ constructor\ Shovel\ menerima\ 2\ parameter\ posX\ dan\ posY\r\n\ yang\ digunakan\ untuk\ meletakan\ posisi\ Object\ ke\ tempat\ semula\r\n
 comment2.params=
-comment2.target=void\ act()
+comment2.target=void\ removePlant()
+comment2.text=\r\n\ Method\ removePlant\ digunakan\ untuk\ menghapus\ tanaman\ \r\n\ jika\ diarahkan\ mengenai\ tanaman\ target\r\n
 comment3.params=
-comment3.target=void\ removePlant()
+comment3.target=void\ act()
+comment3.text=\r\n\ karena\ Method\ act\ akan\ terus\ dijalankan\ selama\ game\ berjalan\r\n\ maka\ method\ ini\ memanggil\ method\ removePlant,\ untuk\ selalu\ melakukan\ pengecekan.\r\n
 numComments=4

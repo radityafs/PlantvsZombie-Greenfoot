@@ -2,4 +2,5 @@
 comment0.target=Replay
 comment1.params=
 comment1.target=void\ act()
+comment1.text=\r\n\ Method\ act\ pada\ class\ Replay\ dilakukan\ pengkondisian\ untuk\r\n\ mengembalikan\ World\ ke\ Class\ Start\ jika\ diklik\r\n
 numComments=2

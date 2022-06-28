@@ -2,18 +2,18 @@ import greenfoot.*;
 
 public class Counter extends Actor
 {
-    //deklarasi variabel colorTransparent yang diisi dengan class Color 0000 (putih transparant)
+    //deklarasi variabel / properti colorTransparent yang diisi dengan class Color 0000 (putih transparant)
     private Color Colortransparent = new Color(0,0,0,0);
     
-    //deklarasi variabel background yang akan menjadi gambar background dari Counter
+    //deklarasi variabel / properti background yang akan menjadi gambar background dari Counter
     private GreenfootImage background;
     
     
-    //deklarasi value dan target sebagai nilai yang akan dijadikan patokan dan tampilan
+    //deklarasi properti value dan target sebagai nilai yang akan dijadikan patokan dan tampilan
     private int value;
     private int target;
     
-    //deklarasai prefix, digunakan sebagai prefix atau nilai awalan dalam menampilkan skor
+    //deklarasai properti prefix, digunakan sebagai prefix atau nilai awalan dalam menampilkan skor
     private String prefix;
     
     /**

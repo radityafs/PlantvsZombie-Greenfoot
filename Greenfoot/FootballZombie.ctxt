@@ -2,6 +2,8 @@
 comment0.target=FootballZombie
 comment1.params=
 comment1.target=FootballZombie()
+comment1.text=\r\n\ pada\ constructor\ FootballZombie\r\n\ berfungsi\ mengubah\ gambar\ Objek\ menjadi\ gambar\ properti\ gif.\ dan\r\n\ terdapat\ perintah\ untuk\ memanggil\ method\ setHealth\ ke\ parent\ dengan\ melempar\ parameter\ 100\r\n
 comment2.params=
 comment2.target=void\ act()
+comment2.text=\r\n\ \ \ Method\ act\ akan\ diselalu\ dijalankan\ sesudah\ class\ diinisiasi\r\n\ \ \ disini\ saya\ memanfaatkan\ method\ act\ untuk\ \:\r\n\ \ \ 1.\ Mengubah\ gambar\ object\ berdasarkan\ state\ /\ value\ dari\ kembalian\ method\ getCurrentImage\r\n\ \ \ 2.\ Menggerakan\ Zombie\ ke\ arah\ rumah\r\n\ \ \ 3.\ Mengecek\ apakah\ Zombie\ sudah\ mencapai\ rumah\ (method\ checkGameOver)\r\n\ \ \ 4.\ mengatur\ kecepatan\ zombie\ menjadi\ -1\ (kekiri)\r\n\ \ \ 5.\ memanggil\ ZombieHit\r\n
 numComments=3

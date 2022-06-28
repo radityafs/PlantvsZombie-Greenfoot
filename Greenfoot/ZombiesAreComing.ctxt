@@ -2,6 +2,8 @@
 comment0.target=ZombiesAreComing
 comment1.params=
 comment1.target=ZombiesAreComing()
+comment1.text=\r\n\ Constructor\ ZombieAreComing\r\n\ berfungsi\ menjalankan\ music\ comingZombie\r\n\ dan\ merubah\ nilai\ properti\ lastAdded\r\n
 comment2.params=
 comment2.target=void\ act()
+comment2.text=\r\n\ pada\ fungsi\ /\ method\ act\ terdapat\ pengkondisian\ untuk\ mengecek\r\n\ apakah\ waktu\ sudah\ 1500ms\ /\ 1.5s\ dari\ saat\ ditambahkan\r\n\ jika\ iya\ maka\ object\ akan\ dihapus\ dari\ world\ arena\r\n
 numComments=3

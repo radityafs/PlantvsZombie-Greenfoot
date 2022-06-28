@@ -9,7 +9,8 @@ public class Plants extends Actor
     /**
      *  Method Mutator / Setter
      *  untuk merubah nilai properti timeToLive
-     */
+    */
+    
     protected void setTimeToLive(int time)
     {
         timeToLive = time;
@@ -18,7 +19,7 @@ public class Plants extends Actor
     /**
      * Method untuk menampilkan animasi ketika plants sudah mati
      * ketika timeToLive sudah habis / 0
-     */
+    */
     protected void dyingPlantAnimation(String filename,int timeLoop)
     {
         DeadActor dead = new DeadActor(filename,timeLoop);
@@ -32,7 +33,8 @@ public class Plants extends Actor
      * dan suara animasi dimakan akan dijalankan
      * kemudian
      * jika timeToLive sudah 0 maka objek akan dihapus dan memanggil method dyingPlantAnimation
-     */
+    */
+    
     protected void plantHit(String filename, int timeLoop)
     {
         if(isTouching(Zombie.class))

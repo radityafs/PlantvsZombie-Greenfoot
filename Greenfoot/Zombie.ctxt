@@ -2,14 +2,20 @@
 comment0.target=Zombie
 comment1.params=
 comment1.target=Zombie()
+comment1.text=\r\n\ Constructor\ class\ Zombie\r\n\ akan\ menjalankan\ musik\ comingZombie\ apabila\ Zombie\ muncul\ pertama\ kali\r\n
 comment2.params=speed
 comment2.target=void\ setSpeed(int)
+comment2.text=\r\n\ Method\ setSpeed\ adalah\ method\ Mutator\ /\ Setter\ yang\ \r\n\ berfungsi\ untuk\ merubah\ nilai\ properti\ zombieSpeed\r\n
 comment3.params=health
 comment3.target=void\ setHealth(int)
+comment3.text=\r\n\ Method\ setHealth\ adalah\ method\ Mutator\ /\ Setter\ yang\ \r\n\ berfungsi\ untuk\ merubah\ nilai\ properti\ zombieHealth\r\n
 comment4.params=damage\ filename\ timeLoop\ points
 comment4.target=void\ zombieHit(int,\ java.lang.String,\ int,\ int)
+comment4.text=\r\n\ Method\ ZombieHit\ digunakan\ untuk\ mengecek\ apakah\ terkena\ tembakan\ dari\ class\ bullet\r\n\ jika\ terkena\ akan\ mengurangi\ zombieHealth\r\n\ kemudian\ juga\ mengecek\ apakah\ nilai\ zombiHealth\ <\=\ 0\r\n\ jika\ true\ maka\ akan\ memanggil\ method\ dyingZombieAnimation\r\n
 comment5.params=filename\ timeLoop
 comment5.target=void\ dyingZombieAnimation(java.lang.String,\ int)
+comment5.text=\r\n\ Method\ dyingZombieAnimation\ digunakan\ untuk\ menampilkan\ animasi\ kematian\ zombie\r\n\ menerima\ parameter,\ filename\ berupa\ gambar\ animasi\ kematian\ dan\ timeLoop\ /\ interval\ delay\ sebelum\ object\ dihapus\ dari\ arena\r\n
 comment6.params=
 comment6.target=void\ checkGameOver()
+comment6.text=\r\n\ Method\ checkGameOver\ digunakan\ untuk\ mengecek\ apakah\ zombie\ sudah\ melewati\ pekarangan\ /\ arena\r\n\ jika\ sudah\ melewati\ maka\ akan\ dianggap\ gameOver\ /\ game\ selesai,\ dan\ diarahkan\ ke\ World\ GameOver\r\n
 numComments=7

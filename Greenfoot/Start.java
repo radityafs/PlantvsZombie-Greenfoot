@@ -16,8 +16,8 @@ public class Start extends World
         // Menampilkan Button Start untuk memulai game
         addButtonStart();
 
-        //Menjalankan suara secara berulang
-        musicMenu.playLoop();
+        // Menjalankan suara secara berulang
+        //musicMenu.playLoop();
     }
 
     /**

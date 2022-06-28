@@ -21,7 +21,7 @@ public class Bullet extends Actor
      * Method checkBoundaries untuk mengecek apakah 
      * class Bullet sudah sampai pojok kanan
      * jika sudah maka akan langsung dihapus
-     */
+    */
     protected void checkBoundaries()
     {
         if(getX() > getWorld().getWidth() - 10){
@@ -34,7 +34,7 @@ public class Bullet extends Actor
      *   disini saya memanfaatkan method act untuk :
      *   1. Menggerakan class object dengan kecepatan sesuai nilai properti speed
      *   2. Mengecek apakah sudah sampai pojok menggunakan method checkBoundaries
-     */
+    */
     public void act(){
         move(this.speed);
         checkBoundaries();

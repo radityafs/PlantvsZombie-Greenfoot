@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Start
+comment1.params=
+comment1.target=Start()
+comment1.text=\r\n\ Constructor\ class\ start\r\n\ fungsi\ dibawah\ akan\ dijalankan\ ketika\ Class\ di\ inisiasi\r\n
+comment2.params=
+comment2.target=void\ addButtonStart()
+comment2.text=\r\n\ Menambahkan\ Tombol\ Start\ \r\n\ untuk\ memulai\ permainan\ dengan\ memanggil\ Class\ ButtonStart\r\n
+comment3.params=
+comment3.target=void\ stopBackgroundMusic()
+comment3.text=\r\n\ Menghentikan\ suara\ background\ menu\ \r\n\ saat\ world\ /\ halaman\ berganti\r\n
+numComments=4

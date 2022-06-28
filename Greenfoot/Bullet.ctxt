@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ Class\ Parent\ Bullet\r\n\ Digunakan\ untuk\ mengatur\ kecepatan\ bergerak\r\n
+comment1.params=bulletSpeed
+comment1.target=void\ setSpeed(int)
+comment1.text=\r\n\ Method\ mutator\ /\ setter\r\n\ untuk\ mengganti\ nilai\ properti\ dari\ kecepatan\r\n
+comment2.params=
+comment2.target=void\ checkBoundaries()
+comment2.text=\r\n\ Method\ checkBoundaries\ untuk\ mengecek\ apakah\ \r\n\ class\ Bullet\ sudah\ sampai\ pojok\ kanan\r\n\ jika\ sudah\ maka\ akan\ langsung\ dihapus\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ \ \ Method\ act\ akan\ diselalu\ dijalankan\ sesudah\ class\ diinisiasi\r\n\ \ \ disini\ saya\ memanfaatkan\ method\ act\ untuk\ \:\r\n\ \ \ 1.\ Menggerakan\ class\ object\ dengan\ kecepatan\ sesuai\ nilai\ properti\ speed\r\n\ \ \ 2.\ Mengecek\ apakah\ sudah\ sampai\ pojok\ menggunakan\ method\ checkBoundaries\r\n
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PeaShooter
+comment1.params=
+comment1.target=PeaShooter()
+comment1.text=\r\n\ constructor\ PeaShooter\ memanggil\ method\ setImage\ untuk\ mengganti\ gambar\ dengan\ state\ gambar\ gif\r\n
+comment2.params=timeInterval
+comment2.target=void\ shootPeas(int)
+comment2.text=\r\n\ Method\ shootPeas\ menerima\ parameter\ timeInterval\r\n\ digunakan\ untuk\ menentukan\ interval\ tembakan\ Pea\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ pada\ method\ act\r\n\ menjalankan\ setImage\ dari\ state\ /\ method\ getCurrentImage\r\n\ kemudian\ memanggil\ method\ shootBeet\ dengan\ interval\ 2000ms\r\n\ dan\ memanggil\ method\ plantHit\ dengan\ paremeter\ gif\ ketika\ beetroot\ mati\ dan\ interval\ waktu\ dihapus\r\n
+numComments=4

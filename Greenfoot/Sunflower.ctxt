@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Sunflower
+comment1.params=
+comment1.target=Sunflower()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=timeInterval
+comment3.target=void\ produceSun(int)
+comment3.text=\r\n\ Method\ produceSun\ untuk\ menghasilkan\ matahari\ dengan\ interval\ sesuai\ parameter\ interval\r\n
+numComments=4

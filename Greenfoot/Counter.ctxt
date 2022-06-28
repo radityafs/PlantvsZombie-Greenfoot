@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Counter
+comment1.params=
+comment1.target=Counter()
+comment1.text=\r\n\ Berikut\ ini\ adalah\ contoh\ penerapan\ Overloading\ pada\ constructor\r\n\ dimana\ ada\ 2\ method\ yang\ namanya\ sama\ tapi\ memiliki\ parameter\ berbeda\r\n
+comment2.params=prefix
+comment2.target=Counter(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ \ \ Method\ act\ akan\ diselalu\ dijalankan\ sesudah\ class\ diinisiasi\r\n\ \ \ disini\ saya\ memanfaatkan\ method\ act\ untuk\ \:\r\n\ \ \ 1.\ Meng\ Update\ nilai\ value\r\n\ \ \ 2.\ Memanggil\ method\ UpdateImage\r\n\ \ \ \r\n\ \ \ Kenapa\ tidak\ langsung\ diset\ valuenya\ ?\r\n\ \ \ agar\ terlihat\ animasi\ pengurangan\ atau\ penambahan\ nilainya..\ \:D\r\n
+comment4.params=score
+comment4.target=void\ add(int)
+comment4.text=\r\n\ Method\ add\ untuk\ menambahkan\ nilai\ target\ sesuai\ parameter\ score\r\n
+comment5.params=
+comment5.target=int\ getValue()
+comment5.text=\r\n\ Method\ Accessor\ atau\ Getter\r\n\ untuk\ mengakses\ nilai\ target\r\n
+comment6.params=newValue
+comment6.target=void\ setValue(int)
+comment6.text=\r\n\ Method\ Mutator\ atau\ Setter\r\n\ untuk\ mengubah\ nilai\ target\ dan\ value\r\n\ kemudian\ dilakukan\ updateImage\r\n
+comment7.params=
+comment7.target=void\ updateImage()
+comment7.text=\r\n\ Method\ UpdateImage\r\n\ digunakan\ untuk\ menambahan\ nilai\ score\ ditengah\ background\r\n
+numComments=8

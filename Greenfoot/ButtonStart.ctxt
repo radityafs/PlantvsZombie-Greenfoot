@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ButtonStart
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ \ \ Method\ act\ akan\ diselalu\ dijalankan\ sesudah\ class\ diinisiasi\r\n\ \ \ disini\ saya\ memanfaatkan\ method\ act\ untuk\ memunculkan\ gambar\ Start\r\n\ \ \ dan\ mengecek\ apakah\ class\ ini\ dipencet,\ jika\ dipencet\ maka\ akan\ memulai\ permainan\r\n
+numComments=2

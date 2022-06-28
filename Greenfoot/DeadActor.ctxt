@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DeadActor
+comment1.params=filename\ delayTime
+comment1.target=DeadActor(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ class\ DeadActor\r\n\ membutuhkan\ 2\ parameter\ yaitu\ nama\ file\ gambar\ ketika\ Actor\ mati\r\n\ dan\ delayTime\ (jeda\ sebelum\ Actor\ dihapus\ dari\ arena)\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \ \ Method\ act\ akan\ diselalu\ dijalankan\ sesudah\ class\ diinisiasi\r\n\ \ \ disini\ saya\ memanfaatkan\ method\ act\ untuk\ \:\r\n\ \ \ melakukan\ pengecekan\ apabila\ waktu\ sudah\ melebihi\ delayTime\ maka\ akan\ dihapus\ dari\ arena.\r\n
+numComments=3

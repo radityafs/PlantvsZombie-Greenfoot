@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Plants
+comment1.params=time
+comment1.target=void\ setTimeToLive(int)
+comment1.text=\r\n\ \ Method\ Mutator\ /\ Setter\r\n\ \ untuk\ merubah\ nilai\ properti\ timeToLive\r\n
+comment2.params=filename\ timeLoop
+comment2.target=void\ dyingPlantAnimation(java.lang.String,\ int)
+comment2.text=\r\n\ Method\ untuk\ menampilkan\ animasi\ ketika\ plants\ sudah\ mati\r\n\ ketika\ timeToLive\ sudah\ habis\ /\ 0\r\n
+comment3.params=filename\ timeLoop
+comment3.target=void\ plantHit(java.lang.String,\ int)
+comment3.text=\r\n\ Method\ plantHit\ untuk\ mengecek\ apakah\ Plants\ terkena\ Zombie\r\n\ jika\ terkena\ ,timeToLive\ akan\ dikurangi\ sebanyak\ 20\r\n\ dan\ suara\ animasi\ dimakan\ akan\ dijalankan\r\n\ kemudian\r\n\ jika\ timeToLive\ sudah\ 0\ maka\ objek\ akan\ dihapus\ dan\ memanggil\ method\ dyingPlantAnimation\r\n
+numComments=4

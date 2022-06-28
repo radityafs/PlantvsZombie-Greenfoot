@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Sidebar
+comment1.params=cost
+comment1.target=void\ setCostOfPlant(int)
+comment2.params=x\ y
+comment2.target=void\ setIconCoordinates(int,\ int)
+comment3.params=plant
+comment3.target=void\ createPlant(Plants)
+comment4.params=plant\ world\ sunCounter
+comment4.target=void\ createPlantDragAndDrop(Plants,\ Arena,\ Counter)
+comment5.params=activeImageLink
+comment5.target=void\ setActiveImage(java.lang.String)
+comment6.params=inactiveImageLink
+comment6.target=void\ setInactiveImage(java.lang.String)
+numComments=7

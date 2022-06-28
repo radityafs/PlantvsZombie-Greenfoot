@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LownMower
+comment1.params=
+comment1.target=LownMower()
+comment1.text=\r\n\ Pada\ Constructor\ LownMower,\ fungsi\ yang\ pertama\ kali\ dieksekusi\ adalah\r\n\ mengganti\ gambar\ class\ dengan\ state\ gambar\ Gif\ LownMower\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ pada\ Method\ act,\ karena\ method\ act\ akan\ selalu\ berjalan\ ketika\ aplikasi\ dijalankan\r\n\ maka\ dilakukan\ pengkondisian\ disini,\ apabila\ zombie\ menabrak\ lown\ mower,\ maka\ lown\ mower\ akan\ berjalan\ dan\ menabrak\ zombie\r\n\ dan\ suara\ animasi\ lownmower\ berjalan\ akan\ di\ mainkan\r\n
+comment3.params=
+comment3.target=void\ checkBoundaries()
+comment3.text=\r\n\ Method\ checkBoundaries\ untuk\ mengecek\ apakah\ object\ sudah\ sampai\ pojok\ kanan\r\n\ jika\ sudah\ ,\ maka\ object\ akan\ dihapus\r\n
+numComments=4
